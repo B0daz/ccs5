@@ -1,0 +1,112 @@
+.container1  {
+
+    background-color: blue;  
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 20px;
+
+}
+
+
+
+.container1  div{
+
+    padding: 10px;
+    color: wheat;
+
+}
+
+
+
+.container2 {
+
+    /* background-color: green; */
+    display: flex;
+    justify-content: space-between;
+
+
+}
+
+
+
+
+.container2 div{
+
+    padding: 10px 2px;
+    /* color: white; */
+    margin-bottom: 20px;
+
+}
+.container2 div:hover{
+
+    background-color: blue;
+    border-bottom: 4px solid darkblue;
+    cursor: pointer;
+
+}
+
+
+
+.container3 {
+
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+
+
+}
+
+.container3 div{
+
+    padding: 10px;
+    color: white;
+
+}
+
+
+
+.material-symbols-outlined {
+
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+
+}.material-symbols-outlined {
+
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+
+}
+
+
+
+.material-symbols-outlined {
+
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+
+}
+
+.container4 {
+
+    background-color: red;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.container4 div{
+
+    padding: 10px;
+    color: white;
+
+}
